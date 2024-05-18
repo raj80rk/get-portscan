@@ -19,10 +19,5 @@ To use Porscan, you need Python installed on your system along with a few additi
 pip install termcolor pyfiglet
 git clone https://github.com/raj80rk/get-portscan
 cd get-portscan
-Notes
-Use Responsibly: This tool is intended for ethical hacking and security testing purposes. Unauthorized port scanning is illegal and can be considered malicious activity.
-Network Load: Scanning a large range of ports, especially on multiple targets, can generate significant network traffic. Use with caution on production networks.
 
-Contributions
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
